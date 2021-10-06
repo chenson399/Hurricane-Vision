@@ -1,0 +1,10 @@
+# Pseudocode to download all files from NOAA dataset
+
+for year_dir in range(1978,2010):
+  iterate through each years directory and download each link to single location
+
+for each_file in single_location:
+  double uncompress each file
+  get all .nc files out of the folders made and delete the remaining stuff
+  rename each of these .nc files using file_renamer
+  store .nc files in database by year
