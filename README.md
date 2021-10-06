@@ -1,6 +1,6 @@
 # Hurricane-Vision
 
-Currently a project to use the HURSAT-AVHRR dataset to attempt to predict the strength and path of hurricanes using computer vision and machine learning algorithms. 
+Currently a project to use the HURSAT-AVHRR dataset to attempt to predict the strength of hurricanes using computer vision and machine learning algorithms. 
 
 Current Plan:
 
